@@ -5,3 +5,4 @@ You will get messages such as "no vacation day" if conditions aren't met.
 
 These are the basic steps
 ![soultionAssign1](https://user-images.githubusercontent.com/57150728/196601100-5f67a8a3-1858-473d-9d64-ab1b59556b03.PNG)
+Do the same for this. After you build you will follow step by step.
